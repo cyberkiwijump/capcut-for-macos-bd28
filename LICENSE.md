@@ -1,4 +1,4 @@
-# 
+# Enhance CapCut for macOS with CapCut for macOS automatic Plugin: version-history & template-library, the #1 plugin. Includes version-history and template-library for a smoother
 
 
 
